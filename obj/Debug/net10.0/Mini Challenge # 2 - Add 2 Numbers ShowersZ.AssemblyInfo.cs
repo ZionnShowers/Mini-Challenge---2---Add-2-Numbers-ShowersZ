@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini Challenge # 2 - Add 2 Numbers ShowersZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976a8f44510bfbbc2390e3212ea5171e92bdcf0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini Challenge # 2 - Add 2 Numbers ShowersZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini Challenge # 2 - Add 2 Numbers ShowersZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
